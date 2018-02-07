@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tesoro</string>
+    <string-array name="map_types_list">
+
+        <item>Normal</item>
+        <item>None</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+</resources>
